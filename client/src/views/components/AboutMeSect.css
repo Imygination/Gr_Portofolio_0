@@ -1,0 +1,8 @@
+.About-me {
+  min-height: 90vh;
+}
+
+img {
+  max-width: 60% !important;
+  height: auto !important;
+}

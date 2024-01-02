@@ -1,0 +1,21 @@
+.MyProject {
+  height: 90vh;
+}
+
+.bi-folder-fill {
+  font-size: 40px;
+}
+
+.bi-github {
+  font-size: 38px;
+}
+
+.card {
+  background-color: rgb(5, 60, 78);
+  color: rgb(100, 204, 197);
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}

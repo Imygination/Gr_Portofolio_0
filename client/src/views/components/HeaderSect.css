@@ -1,0 +1,32 @@
+.Header-Section {
+  margin-top: 20vh;
+  min-height: 70vh;
+}
+
+.gr-top {
+  font-family: 'Exo', sans-serif;
+  color: rgb(100, 204, 197)
+}
+
+.gr-top h5 {
+  font-family: 'Space Mono', monospace;
+  font-size: 300 
+}
+
+.gr-top h1,
+.gr-top h2 {
+  font-family: 'Space Mono', monospace;
+  font-size: 70px;
+  font-weight: 700;
+  color: rgb(182, 234, 218);
+}
+
+.gr-top h2 {
+  font-size: 40px;
+  font-weight: 550;
+  color: rgb(23, 107, 135);
+}
+
+.gr-top h3 {
+  color: rgb(100, 204, 197);
+}
